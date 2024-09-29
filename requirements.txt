@@ -1,0 +1,10 @@
+ipykernel
+numpy
+matplotlib
+pandas
+statsmodels
+pandas-datareader
+datetime
+yfinance
+scikit-learn
+fbprophet
